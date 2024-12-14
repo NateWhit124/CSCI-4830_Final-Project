@@ -1,0 +1,7 @@
+*.stl
+*.stlbak
+*.pdf
+audio samples
+trimmed audio samples
+gcode
+myenv
